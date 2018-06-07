@@ -10,7 +10,10 @@ class Participants
         students[0].likegit = true;
     
         //Fill in your details in the same format as given above
-        
+	students[0] = new Student();
+	students[0].name = "Aditya";
+	students[0].rollnum = "ce17b023";
+	students[0].likegit = true;        
         
         
         
